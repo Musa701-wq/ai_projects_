@@ -1,0 +1,101 @@
+employee_id,name,department,city,age,salary,experience,performance_score,projects_completed,joining_date,bonus,total_compensation,seniority
+184,Swati Kapoor,Data Science,Kolkata,38.0,70719.0,5,5,6,2021-07-02,3535.95,74254.95,Senior
+154,Kavya Malhotra,Engineering,Mumbai,31.0,77058.0,1,8,8,2024-02-05,6164.64,83222.64,Junior
+171,Manish Desai,Data Science,Hyderabad,23.0,69911.0,0,6,18,2019-04-24,4194.66,74105.66,Junior
+146,Neha Das,Engineering,Pune,28.0,69993.0,3,8,1,2022-12-13,5599.44,75592.44,Junior
+145,Isha Nair,Data Science,Unknown,32.0,88216.0,8,8,14,2019-11-25,7057.28,95273.28,Senior
+140,Rahul Gupta,Sales,Hyderabad,23.0,52404.0,0,9,13,2018-12-27,4716.36,57120.36,Junior
+123,Sneha Iyer,Hr,Hyderabad,33.0,59895.0,4,4,18,2024-02-21,2395.8,62290.8,Junior
+181,Karan Rao,Marketing,Unknown,22.0,50733.0,1,6,6,2020-04-05,3043.98,53776.98,Junior
+111,Kavya Singh,Engineering,Delhi,23.0,62969.5,1,5,10,2021-09-14,3148.48,66117.98,Junior
+101,Ananya Malhotra,Engineering,Unknown,24.0,68591.0,2,8,0,2023-10-21,5487.28,74078.28,Junior
+119,Ritu Desai,Marketing,Pune,22.0,55321.0,0,6,18,2020-02-18,3319.26,58640.26,Junior
+131,Priya Malhotra,Marketing,Hyderabad,25.0,55295.0,1,7,12,2022-02-13,3870.65,59165.65,Junior
+174,Divya Chatterjee,Finance,Kolkata,24.0,58374.0,1,3,12,2018-09-21,1751.22,60125.22,Junior
+134,Vivek Kulkarni,Finance,Kolkata,24.0,59422.0,3,6,12,2021-11-24,3565.32,62987.32,Junior
+191,Neha Malhotra,Marketing,Mumbai,29.0,64944.0,2,10,18,2023-10-05,6494.4,71438.4,Junior
+105,Vivek Pillai,Engineering,Pune,39.0,62969.5,9,4,5,2024-06-05,2518.78,65488.28,Senior
+177,Vivek Malhotra,Finance,Bangalore,31.0,62969.5,3,4,12,2021-09-12,2518.78,65488.28,Junior
+178,Vikram Kapoor,Sales,Chennai,29.0,57858.0,3,7,1,2020-06-26,4050.06,61908.06,Junior
+113,Ritu Nair,Finance,Unknown,41.0,74778.0,10,7,5,2018-02-13,5234.46,80012.46,Senior
+132,Swati Malhotra,Engineering,Chennai,33.0,77222.0,5,7,15,2018-10-09,5405.54,82627.54,Senior
+156,Aditya Kapoor,Data Science,Kolkata,26.0,69765.0,0,2,4,2020-04-12,1395.3,71160.3,Junior
+189,Anjali Shah,Marketing,Delhi,33.0,56321.0,6,7,14,2022-08-14,3942.47,60263.47,Senior
+127,Suresh Verma,Data Science,Bangalore,27.0,72862.0,2,6,10,2023-02-21,4371.72,77233.72,Junior
+143,Neha Rao,Sales,Hyderabad,37.0,62969.5,11,6,11,2023-05-15,3778.17,66747.67,Senior
+170,Rahul Nair,Data Science,Kolkata,30.0,76425.0,5,2,4,2021-06-25,1528.5,77953.5,Senior
+116,Rohan Verma,Engineering,Chennai,23.0,62693.0,0,4,8,2018-08-17,2507.72,65200.72,Junior
+141,Manish Kulkarni,Hr,Chennai,27.0,45835.0,3,8,13,2022-07-21,3666.8,49501.8,Junior
+162,Suresh Chatterjee,Hr,Hyderabad,32.0,59273.0,5,6,11,2020-09-05,3556.38,62829.38,Senior
+110,Arjun Verma,Marketing,Pune,29.0,62227.0,4,7,8,2022-04-05,4355.89,66582.89,Junior
+173,Riya Shah,Marketing,Bangalore,27.0,62165.0,5,5,6,2021-10-07,3108.25,65273.25,Senior
+112,Aditya Reddy,Finance,Unknown,31.0,58811.0,2,3,3,2020-05-26,1764.33,60575.33,Junior
+148,Kavya Nair,Engineering,Chennai,31.0,76320.0,3,7,11,2024-03-07,5342.4,81662.4,Junior
+186,Rohan Kapoor,Other,Pune,36.0,65152.0,8,7,4,2020-02-15,4560.64,69712.64,Senior
+129,Ashok Gupta,Marketing,Hyderabad,22.0,49693.0,0,4,7,2018-08-27,1987.72,51680.72,Junior
+194,Pooja Menon,Engineering,Chennai,31.0,76281.0,7,4,9,2022-07-28,3051.24,79332.24,Senior
+106,Vivek Singh,Hr,Delhi,27.0,56886.0,3,6,11,2020-08-04,3413.16,60299.16,Junior
+167,Meera Malhotra,Hr,Hyderabad,31.0,48822.0,4,5,4,2022-06-24,2441.1,51263.1,Junior
+166,Meera Nayak,Hr,Hyderabad,33.0,56940.0,4,7,13,2023-04-14,3985.8,60925.8,Junior
+136,Sanjay Mehta,Sales,Hyderabad,30.0,52573.0,5,7,8,2021-02-12,3680.11,56253.11,Senior
+117,Pooja Malhotra,Engineering,Kolkata,24.0,84255.0,1,8,19,2021-12-05,6740.4,90995.4,Junior
+150,Vivek Chatterjee,Hr,Kolkata,22.0,51391.0,0,7,8,2019-11-20,3597.37,54988.37,Junior
+135,Meera Desai,Marketing,Kolkata,28.0,59186.0,4,6,8,2023-07-10,3551.16,62737.16,Junior
+108,Ananya Rao,Engineering,Pune,38.0,78545.0,6,5,10,2022-02-16,3927.25,82472.25,Senior
+196,Sanjay Pillai,Marketing,Bangalore,31.0,60503.0,0,8,15,2022-11-08,4840.24,65343.24,Junior
+128,Rohan Chatterjee,Sales,Mumbai,26.0,52862.0,1,3,7,2022-08-04,1585.86,54447.86,Junior
+120,Isha Gupta,Marketing,Mumbai,26.0,62969.5,6,5,14,2018-03-27,3148.48,66117.98,Senior
+182,Pooja Reddy,Sales,Delhi,34.0,63700.0,7,6,14,2019-12-28,3822.0,67522.0,Senior
+126,Neha Desai,Hr,Delhi,22.0,53011.0,0,5,8,2023-07-19,2650.55,55661.55,Junior
+163,Rahul Chatterjee,Sales,Kolkata,25.0,60015.0,0,8,9,2023-05-10,4801.2,64816.2,Junior
+114,Isha Das,Finance,Chennai,35.0,71889.0,8,5,2,2019-06-21,3594.45,75483.45,Senior
+125,Sneha Bose,Marketing,Mumbai,32.0,56627.0,7,2,9,2023-07-12,1132.54,57759.54,Senior
+104,Ritu Iyer,Marketing,Bangalore,34.0,63574.0,8,7,20,2021-05-10,4450.18,68024.18,Senior
+118,Rajesh Nair,Finance,Hyderabad,26.0,67464.0,1,5,9,2019-01-26,3373.2,70837.2,Junior
+139,Rahul Malhotra,Marketing,Hyderabad,23.0,60203.0,2,6,15,2022-09-17,3612.18,63815.18,Junior
+109,Rohan Kulkarni,Data Science,Delhi,28.0,76267.0,5,6,3,2023-01-24,4576.02,80843.02,Senior
+179,Arjun Das,Finance,Unknown,43.0,62969.5,10,7,11,2024-08-25,4407.87,67377.37,Senior
+107,Karan Mehta,Hr,Delhi,34.0,55119.0,8,3,8,2021-07-02,1653.57,56772.57,Senior
+165,Isha Das,Marketing,Pune,40.0,57895.0,6,5,1,2023-08-16,2894.75,60789.75,Senior
+137,Ritu Bose,Finance,Bangalore,38.0,71062.0,8,6,4,2023-12-19,4263.72,75325.72,Senior
+190,Swati Bose,Data Science,Mumbai,22.0,78465.0,0,8,18,2022-11-22,6277.2,84742.2,Junior
+157,Ananya Rao,Engineering,Mumbai,25.0,62969.5,2,5,8,2022-04-07,3148.48,66117.98,Junior
+164,Sneha Gupta,Other,Delhi,42.0,63209.0,11,3,8,2021-08-07,1896.27,65105.27,Senior
+155,Sanjay Das,Other,Bangalore,45.0,74505.0,17,6,10,2022-06-22,4470.3,78975.3,Senior
+144,Arjun Nayak,Engineering,Kolkata,38.0,75226.0,7,6,17,2019-12-27,4513.56,79739.56,Senior
+151,Sneha Verma,Finance,Delhi,31.0,66422.0,5,6,5,2023-09-02,3985.32,70407.32,Senior
+168,Sanjay Kulkarni,Engineering,Delhi,34.0,80358.0,7,5,14,2020-04-01,4017.9,84375.9,Senior
+147,Tanvi Verma,Engineering,Bangalore,35.0,77217.0,8,3,0,2022-04-22,2316.51,79533.51,Senior
+169,Swati Chatterjee,Hr,Pune,33.0,49801.0,3,6,11,2021-08-20,2988.06,52789.06,Junior
+162,Suresh Chatterjee,Hr,Hyderabad,32.0,59273.0,5,7,11,2020-09-05,4149.11,63422.11,Senior
+134,Vivek Kulkarni,Finance,Kolkata,24.0,59422.0,3,6,13,2021-11-24,3565.32,62987.32,Junior
+180,Ashok Kulkarni,Finance,Kolkata,31.0,58777.0,3,5,9,2024-07-10,2938.85,61715.85,Junior
+142,Shreya Das,Hr,Pune,22.0,56504.0,0,7,2,2021-06-19,3955.28,60459.28,Junior
+159,Rohan Menon,Hr,Pune,26.0,56141.0,3,4,13,2023-01-03,2245.64,58386.64,Junior
+149,Sanjay Desai,Sales,Hyderabad,37.0,62730.0,8,7,8,2019-01-23,4391.1,67121.1,Senior
+158,Tanvi Malhotra,Other,Mumbai,32.0,88366.0,11,5,19,2021-02-26,4418.3,92784.3,Senior
+158,Tanvi Malhotra,Other,Mumbai,32.0,88366.0,11,6,17,2021-02-26,5301.96,93667.96,Senior
+176,Shreya Menon,Finance,Unknown,41.0,80597.0,9,2,18,2024-11-09,1611.94,82208.94,Senior
+133,Riya Verma,Hr,Kolkata,26.0,59693.0,3,6,20,2024-05-08,3581.58,63274.58,Junior
+195,Pooja Nair,Finance,Unknown,33.0,69396.0,6,6,4,2023-01-13,4163.76,73559.76,Senior
+160,Shreya Singh,Finance,Pune,38.0,62020.0,5,5,0,2019-05-11,3101.0,65121.0,Senior
+164,Sneha Gupta,Other,Delhi,42.0,63209.0,11,4,7,2021-08-07,2528.36,65737.36,Senior
+185,Vikram Desai,Other,Pune,39.0,68197.0,9,4,9,2024-09-13,2727.88,70924.88,Senior
+138,Rahul Gupta,Finance,Hyderabad,35.0,75614.0,11,7,14,2020-10-18,5292.98,80906.98,Senior
+130,Arjun Nair,Finance,Pune,22.0,60514.0,0,9,24,2019-06-17,5446.26,65960.26,Junior
+102,Rahul Menon,Engineering,Hyderabad,38.0,84870.0,11,6,15,2021-06-07,5092.2,89962.2,Senior
+153,Pooja Das,Finance,Mumbai,27.0,64112.0,1,4,6,2019-08-25,2564.48,66676.48,Junior
+122,Ashok Shah,Hr,Hyderabad,31.0,55756.0,5,8,11,2024-05-11,4460.48,60216.48,Senior
+103,Ananya Nayak,Sales,Delhi,38.0,68490.0,9,6,6,2021-11-19,4109.4,72599.4,Senior
+124,Deepak Verma,Data Science,Hyderabad,41.0,86380.0,9,7,8,2024-06-05,6046.6,92426.6,Senior
+188,Sanjay Verma,Hr,Bangalore,33.0,59591.0,8,4,4,2019-03-05,2383.64,61974.64,Senior
+192,Divya Verma,Hr,Delhi,40.0,66363.0,12,7,13,2022-09-10,4645.41,71008.41,Senior
+175,Aman Nayak,Other,Unknown,27.0,69076.0,5,5,10,2019-09-15,3453.8,72529.8,Senior
+187,Aditya Bose,Engineering,Bangalore,36.0,81112.0,7,4,9,2022-03-26,3244.48,84356.48,Senior
+183,Deepak Nayak,Marketing,Hyderabad,28.0,62393.0,2,5,13,2020-08-09,3119.65,65512.65,Junior
+121,Ashok Shah,Data Science,Pune,31.0,75498.0,4,7,7,2024-12-05,5284.86,80782.86,Junior
+161,Nikhil Nair,Marketing,Chennai,22.0,55740.0,0,5,22,2020-04-22,2787.0,58527.0,Junior
+172,Neha Desai,Hr,Chennai,22.0,52250.0,0,5,7,2020-11-14,2612.5,54862.5,Junior
+115,Neha Reddy,Marketing,Chennai,43.0,62969.5,12,4,10,2019-06-06,2518.78,65488.28,Senior
+193,Priya Nayak,Hr,Unknown,23.0,56821.0,3,9,16,2019-08-07,5113.89,61934.89,Junior
+152,Kavya Joshi,Marketing,Delhi,44.0,69499.0,10,7,4,2022-03-25,4864.93,74363.93,Senior
