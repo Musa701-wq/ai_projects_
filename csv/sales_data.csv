@@ -1,0 +1,151 @@
+order_id,month,category,region,units_sold,unit_price,revenue,profit,customer_rating
+5001,Mar,Sports,North,8,59.48,475.84,140.53,3.5
+5002,Jun,Electronics,West,2,373.29,746.58,205.7,4.2
+5003,May,Electronics,West,3,405.77,1217.31,385.96,4.8
+5004,Apr,Clothing,South,9,76.26,686.34,196.18,3.8
+5005,Feb,Sports,East,7,144.59,1012.13,134.31,4.3
+5006,Feb,Electronics,East,4,532.46,2129.84,644.56,5.0
+5007,Jan,Home & Kitchen,East,5,188.73,943.65,250.28,3.8
+5008,Jun,Books,West,2,27.05,54.1,8.71,4.8
+5009,May,Electronics,West,8,298.18,2385.44,417.32,4.3
+5010,May,Home & Kitchen,West,4,226.54,906.16,117.24,4.0
+5011,Jan,Clothing,North,9,63.21,568.89,70.79,2.5
+5012,Jun,Home & Kitchen,South,5,242.9,1214.5,220.5,4.0
+5013,Jun,Home & Kitchen,West,9,239.6,2156.4,676.24,3.8
+5014,Feb,Clothing,South,4,79.16,316.64,87.69,5.0
+5015,Feb,Electronics,South,5,480.5,2402.5,675.12,4.2
+5016,Feb,Books,East,9,64.02,576.18,139.22,4.5
+5017,Mar,Clothing,North,8,101.85,814.8,188.19,4.2
+5018,Apr,Electronics,West,3,437.3,1311.9,275.74,3.9
+5019,Apr,Electronics,East,1,607.92,607.92,109.18,5.0
+5020,Mar,Home & Kitchen,East,3,235.22,705.66,149.51,4.2
+5021,May,Home & Kitchen,West,4,245.26,981.04,268.59,3.3
+5022,Feb,Electronics,South,2,278.29,556.58,131.31,4.7
+5023,Mar,Clothing,East,1,70.86,70.86,16.12,5.0
+5024,Mar,Electronics,South,7,368.14,2576.98,668.81,3.5
+5025,Apr,Home & Kitchen,North,8,99.61,796.88,206.63,4.6
+5026,May,Electronics,South,7,422.16,2955.12,929.75,4.0
+5027,Feb,Home & Kitchen,North,5,192.43,962.15,158.53,3.8
+5028,Apr,Clothing,South,1,71.5,71.5,9.03,4.6
+5029,Apr,Sports,East,7,141.03,987.21,223.98,4.5
+5030,Jan,Electronics,East,7,240.51,1683.57,313.18,4.0
+5031,May,Clothing,North,9,68.77,618.93,85.7,5.0
+5032,Feb,Electronics,West,3,420.48,1261.44,190.98,4.0
+5033,Jan,Sports,North,9,111.03,999.27,120.43,4.2
+5034,Jun,Books,North,1,41.83,41.83,12.75,4.1
+5035,Jun,Electronics,South,1,290.97,290.97,79.14,5.0
+5036,Jun,Home & Kitchen,South,4,73.72,294.88,44.1,4.2
+5037,Mar,Books,North,9,21.66,194.94,50.18,4.3
+5038,Jan,Home & Kitchen,East,6,66.7,400.2,117.44,4.4
+5039,May,Clothing,South,3,72.19,216.57,43.19,4.2
+5040,Apr,Electronics,West,1,265.67,265.67,61.85,3.9
+5041,Feb,Electronics,South,4,575.13,2300.52,317.11,3.3
+5042,Apr,Books,South,9,32.15,289.35,62.15,4.2
+5043,Jan,Sports,West,3,107.14,321.42,80.28,5.0
+5044,Jun,Home & Kitchen,North,9,222.1,1998.9,462.84,3.8
+5045,Feb,Clothing,West,7,96.59,676.13,157.47,3.3
+5046,May,Clothing,North,4,129.46,517.84,125.06,3.5
+5047,Mar,Home & Kitchen,North,3,113.76,341.28,74.96,4.3
+5048,Apr,Books,North,5,15.38,76.9,12.69,4.0
+5049,Apr,Books,West,5,33.27,166.35,36.19,4.5
+5050,Feb,Books,North,3,15.27,45.81,14.43,4.2
+5051,Jun,Home & Kitchen,East,9,167.96,1511.64,399.95,4.4
+5052,May,Electronics,West,4,431.47,1725.88,371.62,4.5
+5053,Jun,Electronics,East,5,574.13,2870.65,462.22,4.4
+5054,Jun,Books,North,4,41.49,165.96,43.39,3.7
+5055,Apr,Home & Kitchen,South,5,228.91,1144.55,157.33,4.5
+5056,Jun,Electronics,North,7,330.7,2314.9,552.74,4.1
+5057,Jan,Electronics,East,9,353.54,3181.86,670.91,5.0
+5058,Feb,Home & Kitchen,East,7,104.38,730.66,187.72,5.0
+5059,Jan,Electronics,West,5,221.3,1106.5,163.5,5.0
+5060,Mar,Electronics,South,7,553.32,3873.24,547.44,3.8
+5061,Mar,Clothing,West,5,124.33,621.65,167.35,4.4
+5062,Mar,Home & Kitchen,East,3,278.0,834.0,134.27,4.0
+5063,Jun,Home & Kitchen,North,7,143.43,1004.01,306.51,4.4
+5064,Mar,Electronics,South,2,532.74,1065.48,298.24,4.3
+5065,Mar,Home & Kitchen,North,9,241.53,2173.77,341.89,4.4
+5066,Apr,Electronics,North,1,606.7,606.7,111.17,3.5
+5067,Feb,Clothing,South,6,96.77,580.62,148.99,5.0
+5068,Jun,Home & Kitchen,West,7,257.93,1805.51,442.03,3.9
+5069,Jan,Home & Kitchen,North,8,178.75,1430.0,297.08,3.2
+5070,Jun,Books,East,9,34.57,311.13,70.43,4.6
+5071,May,Home & Kitchen,North,2,74.66,149.32,24.76,3.0
+5072,Feb,Home & Kitchen,South,2,133.22,266.44,70.9,4.8
+5073,Jan,Electronics,South,5,506.05,2530.25,388.0,4.1
+5074,Jun,Clothing,South,5,112.85,564.25,132.39,4.6
+5075,May,Electronics,West,6,648.92,3893.52,1053.12,4.6
+5076,May,Electronics,North,3,247.27,741.81,119.36,4.5
+5077,May,Sports,West,8,169.96,1359.68,297.49,3.9
+5078,Jan,Clothing,West,1,91.33,91.33,17.88,4.2
+5079,Mar,Books,South,6,37.85,227.1,54.68,5.0
+5080,Jan,Home & Kitchen,South,4,167.0,668.0,134.8,4.2
+5081,Jun,Books,West,1,53.59,53.59,6.56,4.8
+5082,May,Clothing,North,7,110.2,771.4,184.99,5.0
+5083,Mar,Home & Kitchen,East,9,241.9,2177.1,678.85,3.5
+5084,Jan,Clothing,West,4,79.48,317.92,56.46,3.8
+5085,Mar,Electronics,North,4,469.03,1876.12,567.28,4.5
+5086,Mar,Home & Kitchen,South,6,190.45,1142.7,160.48,3.6
+5087,May,Electronics,South,3,611.81,1835.43,510.28,3.8
+5088,May,Electronics,North,6,212.39,1274.34,172.63,4.8
+5089,Jun,Home & Kitchen,East,7,82.93,580.51,167.24,3.8
+5090,Apr,Electronics,South,3,267.57,802.71,230.78,3.9
+5091,Jan,Sports,South,7,103.13,721.91,131.6,4.4
+5092,May,Sports,South,3,111.38,334.14,89.83,3.4
+5093,May,Sports,North,2,80.98,161.96,44.95,3.6
+5094,Apr,Clothing,West,4,78.52,314.08,91.93,4.2
+5095,May,Electronics,South,8,613.79,4910.32,1046.59,4.5
+5096,Apr,Sports,West,9,147.74,1329.66,168.29,4.1
+5097,Apr,Clothing,East,7,130.84,915.88,155.37,3.5
+5098,Apr,Sports,South,1,50.93,50.93,9.28,4.2
+5099,Jan,Sports,South,3,181.59,544.77,95.62,3.8
+5100,Jan,Books,East,9,40.76,366.84,115.59,3.8
+5101,Jan,Electronics,South,1,395.72,395.72,91.59,4.2
+5102,May,Clothing,West,9,54.37,489.33,88.04,4.7
+5103,Mar,Books,North,8,30.5,244.0,48.67,4.8
+5104,Apr,Clothing,West,1,71.69,71.69,15.32,3.9
+5105,Jun,Electronics,North,6,473.74,2842.44,555.83,4.3
+5106,Feb,Home & Kitchen,North,5,124.69,623.45,163.85,4.7
+5107,Mar,Sports,West,6,137.34,824.04,186.97,3.8
+5108,May,Home & Kitchen,West,5,228.38,1141.9,160.55,2.5
+5109,Feb,Home & Kitchen,West,6,133.56,801.36,108.26,3.7
+5110,Jan,Electronics,West,5,601.79,3008.95,677.96,4.6
+5111,Mar,Home & Kitchen,East,5,236.16,1180.8,372.88,4.7
+5112,Feb,Sports,South,4,89.43,357.72,56.96,3.0
+5113,Jun,Electronics,North,3,417.59,1252.77,299.42,4.5
+5114,Jun,Clothing,West,3,128.18,384.54,88.96,3.2
+5115,May,Books,West,4,51.04,204.16,57.38,4.1
+5116,Jun,Home & Kitchen,West,9,237.51,2137.59,668.06,4.1
+5117,Jun,Home & Kitchen,East,2,267.77,535.54,79.38,3.3
+5118,Feb,Home & Kitchen,West,9,79.12,712.08,175.63,3.6
+5119,Jun,Clothing,West,1,112.27,112.27,32.52,4.8
+5120,Apr,Electronics,West,1,607.99,607.99,148.93,4.6
+5121,Jun,Books,South,5,31.79,158.95,45.3,3.9
+5122,Jun,Books,East,6,56.53,339.18,64.12,4.1
+5123,Mar,Books,West,6,53.69,322.14,62.03,3.9
+5124,Jan,Sports,North,3,215.55,646.65,178.44,4.3
+5125,Feb,Clothing,North,7,46.99,328.93,76.69,4.1
+5126,Apr,Clothing,North,9,54.12,487.08,105.67,4.3
+5127,Jun,Books,East,8,40.62,324.96,87.2,3.7
+5128,Jun,Home & Kitchen,East,6,107.97,647.82,161.31,4.9
+5129,Jan,Home & Kitchen,North,8,152.77,1222.16,178.99,4.2
+5130,Apr,Books,West,5,49.16,245.8,69.93,4.4
+5131,Mar,Books,East,8,41.48,331.84,93.91,3.7
+5132,Feb,Clothing,North,4,77.55,310.2,68.09,4.1
+5133,Jan,Clothing,North,8,110.62,884.96,125.06,3.9
+5134,Mar,Electronics,West,2,305.25,610.5,162.66,3.8
+5135,Jun,Home & Kitchen,South,5,115.16,575.8,142.0,5.0
+5136,Mar,Electronics,East,9,573.91,5165.19,1037.56,4.0
+5137,Apr,Clothing,West,4,115.95,463.8,94.8,4.3
+5138,May,Clothing,North,6,54.36,326.16,45.03,4.0
+5139,Mar,Electronics,North,1,542.36,542.36,72.49,4.0
+5140,Jun,Home & Kitchen,West,9,261.41,2352.69,621.83,4.7
+5141,Jun,Electronics,East,1,466.89,466.89,144.67,4.4
+5142,Feb,Electronics,South,5,243.45,1217.25,263.84,4.0
+5143,Apr,Books,South,4,28.5,114.0,25.99,4.2
+5144,Mar,Clothing,North,3,123.87,371.61,115.59,4.0
+5145,Mar,Electronics,East,6,252.7,1516.2,370.96,3.0
+5146,Jan,Clothing,South,2,71.91,143.82,29.13,3.9
+5147,May,Books,East,3,50.25,150.75,36.13,3.7
+5148,Apr,Electronics,East,5,216.55,1082.75,130.44,4.1
+5149,Jan,Home & Kitchen,North,9,272.89,2456.01,297.3,3.9
+5150,Mar,Electronics,South,2,559.49,1118.98,349.59,3.8
